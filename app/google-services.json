@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540067640329",
+    "project_id": "mercadoagro-60f24",
+    "storage_bucket": "mercadoagro-60f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540067640329:android:23c970a6f922a610e4b4d8",
+        "android_client_info": {
+          "package_name": "com.example.mercadoagro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540067640329-tosiskctretribjhn5nhd6daek1mhgdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjq_FDZhSTo9wxz6qJi-wT3XcGWqkh7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540067640329-tosiskctretribjhn5nhd6daek1mhgdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
